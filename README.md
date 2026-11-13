@@ -28,3 +28,6 @@ The model was evaluated on a test set with the following performance metrics:
     ```bash
     streamlit run streamlit_app.py
     ```
+## Dataset
+
+[Link](https://www.kaggle.com/datasets/taseermehboob9/submarine-sonar-rock-or-mine-dataset)
